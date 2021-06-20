@@ -1,4 +1,0 @@
-﻿  GameOfEight.cpp
-A:\Programming\C++\Games\GameOfEight\GameOfEight\ConsoleApplication1\GameOfEight.cpp(100,11): warning C4551: function call missing argument list
-A:\Programming\C++\Games\GameOfEight\GameOfEight\ConsoleApplication1\GameOfEight.cpp(101): warning C4715: 'WantToPlayAgain': not all control paths return a value
-  ConsoleApplication1.vcxproj -> A:\Programming\C++\Games\GameOfEight\GameOfEight\Debug\GameOfEight.exe
